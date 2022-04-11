@@ -1,0 +1,16 @@
+{
+  "name": "list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/LinkedList.js",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
